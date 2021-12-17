@@ -72,6 +72,7 @@ def amogus(query, update, context: CallbackContext) -> None:
 
 
 #abobus amogus sus
+#ABOBUS AMOBUG SUS 2
 
 def who(update: Update, context: CallbackContext) -> None:
     keyboard = [
