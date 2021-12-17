@@ -69,7 +69,9 @@ def amogus(query, update, context: CallbackContext) -> None:
         query.edit_message_text("Амогус")
     else:
         query.edit_message_text("Не амогус")
-        
+
+
+#abobus amogus sus
 
 def who(update: Update, context: CallbackContext) -> None:
     keyboard = [
